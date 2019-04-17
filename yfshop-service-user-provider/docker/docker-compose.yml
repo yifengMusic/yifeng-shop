@@ -1,0 +1,14 @@
+version: '3.1'
+services:
+  yfshop-service-user-provider:
+    image: 192.168.1.196:5000/yfshop-service-user-provider:v1.0.0
+    container_name: yfshop-service-user-provider
+    ports:
+    - 8501:8501
+    - 22222:22222
+    - 20881:20881
+
+networks:
+  default:
+    external:
+      name: dubbo
