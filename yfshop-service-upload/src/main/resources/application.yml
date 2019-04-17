@@ -1,0 +1,12 @@
+# Spring boot application
+spring:
+  application:
+    name: yfshop-service-upload
+server:
+  port: 8888
+
+fastdfs.base.url: http://192.168.1.190:8888/
+storage:
+  type: fastdfs
+  fastdfs:
+    tracker_server: 192.168.1.190:22122
