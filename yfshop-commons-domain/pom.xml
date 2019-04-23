@@ -14,7 +14,7 @@
     <artifactId>yfshop-commons-domain</artifactId>
     <packaging>jar</packaging>
 
-    <url>http://www.yifengmusic.cn/</url>
+    <url>https://www.yifengmusic.cn</url>
     <inceptionYear>2018-Now</inceptionYear>
 
     <dependencies>
