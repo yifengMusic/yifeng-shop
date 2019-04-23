@@ -13,7 +13,7 @@
     <artifactId>yfshop-service-user-consumer</artifactId>
     <packaging>jar</packaging>
 
-    <url>http://www.yifneg.com</url>
+    <url>https://www.yifengmusic.cn</url>
     <inceptionYear>2018-Now</inceptionYear>
 
     <dependencies>
